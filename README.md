@@ -1,6 +1,6 @@
 # JS-tasks
 
-Need to istall npm
+Need to install npm
 > npm install
 
 Tasks:
