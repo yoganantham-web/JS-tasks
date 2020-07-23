@@ -1,6 +1,8 @@
 # JS-tasks
 1.Given an array, rotate the array to the right by k steps, where k is non-negative.
+
 2.Given a binary tree, find the height of the binary tree.
+
 3.Find all combinations of a given string.
 
 For execute files
