@@ -1,0 +1,19 @@
+{
+  "name": "jasmine_testing_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node jasmine.js",
+    "coverage": "nyc npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^3.3.1"
+  },
+  "devDependencies": {
+    "jasmine-console-reporter": "^3.1.0",
+    "nyc": "^15.1.0"
+  }
+}
