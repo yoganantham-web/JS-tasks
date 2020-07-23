@@ -1,4 +1,10 @@
 # JS-tasks
+
+Need to istall npm
+> npm install
+
+Tasks:
+
 1.Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 2.Given a binary tree, find the height of the binary tree.
